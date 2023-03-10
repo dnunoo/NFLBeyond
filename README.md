@@ -48,6 +48,12 @@ NFL Beyond revolutionizes how fans view the game through cultivation of unforget
 
 * Scope - This screen will show our implementation of VR and kiosk, that is part of the NFL Beyond experince, our group created.
 
+- [x] User can access virtual reality feature
+- [x] User can access kiosk content 
+- [x] User can share content 
+- [x] User can connect headset 
+- [x] User can connect from anywhere
+
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 <img src="https://recordit.co/tpnBSMO3s0.gif" width=600>
