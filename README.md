@@ -10,6 +10,7 @@
 ### Description
 NFL Beyond revolutionizes how fans view the game through cultivation of unforgettable experiences.
  
+ <img src="https://recordit.co/ne79MFSGWM.gif" width=600>
 
 ## Product Spec
 
