@@ -51,6 +51,7 @@ NFL Beyond revolutionizes how fans view the game through cultivation of unforget
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 <img src="https://recordit.co/1obdLmjTMn.gif" width=600>
-<img src = "https://user-images.githubusercontent.com/81442472/224294118-43046506-4ddb-4cc1-9c91-f29f660dd88c.jpeg")
-![IMG_0008](https://user-images.githubusercontent.com/81442472/224294315-176e85e1-994c-4004-b14d-1c7fff56617c.jpeg)
+ ![alt text](https://user-images.githubusercontent.com/81442472/224294948-53184242-799b-4dc4-9292-d0b0c398ace9.jpeg))
+![IMG_0008](https://user-images.githubusercontent.com/81442472/224294948-53184242-799b-4dc4-9292-d0b0c398ace9.jpeg)
+
 
